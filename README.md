@@ -1,1 +1,1 @@
-https://travis-ci.org/martinlu42/uwu.svg?branch=master
+https://travis-ci.org/martinlu42/stupidlab.svg?branch=master
